@@ -1,0 +1,14 @@
+- src/
+  - components/
+    - AdminDashboard.vue
+    - ContentPosting.vue
+    - FileExplorer.vue
+    - NoteTaking.vue
+  - views/
+    - Home.vue
+    - Admin.vue
+  - App.vue
+  - main.js
+- public/
+  - index.html
+- README.md
