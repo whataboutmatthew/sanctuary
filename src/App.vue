@@ -12,10 +12,9 @@
 
             <nav>
                 <RouterLink to="/">Home</RouterLink>
-                <RouterLink to="/about">About</RouterLink>
-                <RouterLink to="/create">Create</RouterLink>
+                <RouterLink to="/markdown">Markdown</RouterLink>
+
             </nav>
-            <h1>HI MAT WE DID IT!!!</h1>
         </div>
     </header>
 

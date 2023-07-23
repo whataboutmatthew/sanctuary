@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\router",
+    "\\src\\stores",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\stores\\counter.ts",
+  "PreviewInSolutionExplorer": true
+}
